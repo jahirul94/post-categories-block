@@ -1,7 +1,6 @@
 {
 	"editor.fontSize": 18,
 	"window.zoomLevel": 1.5,
-	"workbench.activityBar.visible": false,
 	"workbench.statusBar.visible": false,
 	"gitlens.currentLine.enabled": false,
 	"terminal.integrated.fontSize": 15,
@@ -13,5 +12,6 @@
 		"editor.codeActionsOnSave": {
 			"source.fixAll.stylelint": true
 		}
-	}
+	},
+	"workbench.activityBar.location": "hidden"
 }
