@@ -1,5 +1,5 @@
 {
-	"editor.fontSize": 18,
+	"editor.fontSize": 21,
 	"window.zoomLevel": 1.5,
 	"workbench.statusBar.visible": false,
 	"gitlens.currentLine.enabled": false,
@@ -10,8 +10,8 @@
 	"[scss]": {
 		"editor.formatOnSave": false,
 		"editor.codeActionsOnSave": {
-			"source.fixAll.stylelint": true
+			"source.fixAll.stylelint": "explicit"
 		}
-	},
-	"workbench.activityBar.location": "hidden"
+	}
+	// "workbench.activityBar.location": "hidden"
 }
